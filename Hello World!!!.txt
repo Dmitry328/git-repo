@@ -1,3 +1,5 @@
-Hello World(;);
-Hello Alena(;);
-print("Hi";);
+Hello World();
+Hello Alena();
+print("Hi");
+print("hello my dear friend");
+print("Glat too see you");
